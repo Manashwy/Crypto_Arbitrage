@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scipy
+statsmodels
+scikit-learn
+ccxt
+websockets
+asyncio
+requests
+ta
+jupyter
+loguru
+python-dotenv
